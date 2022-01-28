@@ -1,0 +1,6 @@
+bread,cheese,juice
+bread,cheese,juice
+bread
+bread,juice
+cheese,juice
+bread,cheese,juice
